@@ -1,4 +1,4 @@
-# 👨‍💻 Jorbson Luiz
+# 👨🏻‍💻 Jorbson Luiz
 Engenheiro de Dados
 
 Me chamo Jorbson Luiz, sou natural do Rio Grande do Norte. Sou apaixonado por dados, arquitetura de sistemas e engenharia de software, com foco em construir pipelines de dados escaláveis, data warehouses e soluções de processamento distribuído. Minha expertise abrange desde modelagem de dados até orquestração de processos ETL/ELT e análise de grandes volumes de informação.
