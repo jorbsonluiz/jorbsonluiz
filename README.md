@@ -18,7 +18,7 @@ Me chamo Jorbson Luiz, sou natural do Rio Grande do Norte. Sou apaixonado por da
             src="https://custom-icon-badges.demolab.com/github/followers/JorbsonLuiz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/seu-usuario-linkedin" target="_blank">
+    <a href="https://www.linkedin.com/in/jorbson-luiz-96b0581b6/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Me siga no LinkedIn" 
@@ -26,6 +26,7 @@ Me chamo Jorbson Luiz, sou natural do Rio Grande do Norte. Sou apaixonado por da
         />
     </a>
 </p>
+
 🤖 Stack de Engenharia de Dados
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
